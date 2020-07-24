@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "252753918643",
+    "firebase_url": "https://besttrain.firebaseio.com",
+    "project_id": "besttrain",
+    "storage_bucket": "besttrain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252753918643:android:e3cfa4054be316e50fcec6",
+        "android_client_info": {
+          "package_name": "nipuna.best_train"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252753918643-aahqivjjuo59t60gi74jq18pe407pgk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt3qn_paslX3Xj6d157xoMR4jXrdFUZl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252753918643-aahqivjjuo59t60gi74jq18pe407pgk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
